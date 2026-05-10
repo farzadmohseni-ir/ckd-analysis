@@ -2,7 +2,6 @@
 Chronic Kidney Disease dataset analysis for Data Mining course.
 
 
-# 🧪 Data Mining Assignment 01  
 ## 🏥 Chronic Kidney Disease (CKD) Analysis  
 
 ---
